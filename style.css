@@ -1,0 +1,23 @@
+.upper{
+    text-align: center;
+}
+
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 900;
+    font-size: 3.5rem;
+    padding-top: 5%;
+}
+h2{
+    font-family: 'Lato', sans-serif;
+    font-weight: 700;
+    font-size: 2rem;
+    color: tomato;
+}
+h3{
+    font-size: 1.25rem;
+}
+.giftbox1{
+    max-width: 18%;
+
+}
